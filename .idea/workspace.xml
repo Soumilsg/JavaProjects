@@ -37,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/CodeScanner" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C_Projects" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,6 +78,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="374" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1640498207889" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1640500654912">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1640500654912" />
     <state x="452" y="119" key="chooseDestDirectoryDialog" timestamp="1640497915514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

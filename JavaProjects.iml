@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/BabyNameRanking" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CodeScanner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CoinFaceMatrix" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GeometryParameterComparison" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GeometryGrapherAndComparator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/VendingMachine" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
